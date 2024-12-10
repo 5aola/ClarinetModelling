@@ -8,9 +8,11 @@ This was a university project within a independent laboratory course. The goal w
 
 - [Expressive performance on single-reed woodwind instruments: an experimental characterisation of articulatory actions PhD thesis _by Montserrat Pámies-Vilá_](https://www.researchgate.net/publication/349216745_Expressive_performance_on_single-reed_woodwind_instruments_an_experimental_characterisation_of_articulatory_actions)
 
-![image](https://github.com/user-attachments/assets/6a5c7109-1dc9-410d-b01f-70722878e236)
+![image](https://github.com/user-attachments/assets/4c08ba4a-f24c-40b1-b167-065c543b8e6b)
 
-![image](https://github.com/user-attachments/assets/413f6fa2-e8c3-4f2d-ba58-7d113f1c36c7)
+
+![image](https://github.com/user-attachments/assets/2e671738-f444-47da-b74c-4a802cbfee77)
+
 
 
 ### Reed Exciter Modelling
